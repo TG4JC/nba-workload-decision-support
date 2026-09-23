@@ -44,3 +44,20 @@ Alamar (2024) also distinguishes between an analyst mindset and an innovator min
 ## Reference
 
 Alamar, B. C. (2024). *Sports analytics: A guide for coaches, managers, and other decision makers*. Columbia University Press.
+
+
+## Prototype Enhancement
+
+The proposed prototype enhancement is a **Player Workload Alert System**. Rather than requiring decision makers to examine every player's workload statistics individually, the enhancement would summarize recent workload changes and identify players whose recent workload differs substantially from their typical workload. This approach reflects Alamar's (2024) emphasis on designing analytics tools that make valuable information easier for decision makers to understand and use within their existing processes.
+
+For example, the prototype could compare a player's recent average minutes with the player's longer-term average and organize the results into simple categories:
+
+* Normal workload
+* Elevated workload
+* Significant workload change
+
+The alert system would not automatically determine whether a player should play, rest, or have reduced minutes. Instead, it would direct the decision maker's attention toward situations that may require further evaluation. Coaches and performance personnel could then combine the workload information with their professional judgment and other relevant organizational information.
+
+This enhancement could improve decision-making because coaches and executives have limited time to evaluate large amounts of information. Alamar (2024) explains that decision makers often do not have sufficient time to thoroughly investigate new analytics, making the presentation and accessibility of information important to organizational adoption. A concise alert system could reduce the amount of information that must initially be reviewed while still allowing decision makers to investigate the underlying workload data when necessary.
+
+This enhancement represents the **Prototyping Phase** of the innovation framework. According to Alamar (2024), prototyping involves creating an initial representation of an innovation that allows decision makers to interact with the concept and better understand its potential value. The Player Workload Alert System extends the original idea into a more specific representation of how the proposed analytics tool could support actual decision-making.
