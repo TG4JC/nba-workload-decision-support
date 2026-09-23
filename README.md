@@ -41,6 +41,17 @@ This project currently represents the **Creative Phase** of Alamar's (2024) inno
 
 Alamar (2024) also distinguishes between an analyst mindset and an innovator mindset. Developing an analytical idea is only one part of innovation; analysts must also consider how new information can be successfully introduced into the decision-making process. Therefore, this project is designed not only around the proposed analytics but also around how coaches and other organizational decision makers could realistically interact with the information.
 
+## Prototype Evaluation
+
+The Player Workload Alert System appears to be a valuable enhancement to the original project and should be considered for integration into the main project. However, feedback from the people who would actually use the system should influence the final integration decision. Alamar (2024) emphasizes that successful analytics innovation requires more than developing a technically useful idea; decision makers must understand the innovation and see how it fits into their existing decision-making process.
+
+The most important feedback would come from coaches, performance personnel, and front-office staff. I would want to determine whether the workload categories are easy to understand, whether the alerts identify information that is useful for actual player-management decisions, and whether the system can be reviewed quickly enough to fit existing organizational workflows. Feedback would also help determine whether the proposed categories create too many alerts or fail to provide enough context.
+
+Decision makers might also identify information that is missing from the prototype. Based on their feedback, the prototype could be refined by adjusting workload thresholds, simplifying the presentation, or providing additional information when a player is flagged. This feedback process reflects the **Engagement Phase** of Alamar's (2024) innovation framework because the goal is to move beyond simply presenting an analytics idea and determine whether decision makers understand, value, and are willing to incorporate the innovation into their process.
+
+Based on the proposed benefits, I would recommend moving the prototype toward integration while continuing to collect feedback during implementation.
+
+
 ## Reference
 
 Alamar, B. C. (2024). *Sports analytics: A guide for coaches, managers, and other decision makers*. Columbia University Press.
